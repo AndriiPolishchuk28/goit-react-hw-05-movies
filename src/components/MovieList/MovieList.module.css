@@ -1,0 +1,16 @@
+.wrap_list {
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
+}
+
+.list_item {
+  text-decoration: none;
+  color: inherit;
+  font-size: 18px;
+  font-weight: 500;
+}
+
+.list_item:hover {
+  color: rgb(89, 96, 233);
+}

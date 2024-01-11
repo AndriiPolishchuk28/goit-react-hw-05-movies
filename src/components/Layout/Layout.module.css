@@ -1,0 +1,19 @@
+.navbar {
+  display: flex;
+  align-items: center;
+  background-color: rgb(187, 197, 197);
+  padding-left: 40px;
+  gap: 30px;
+}
+
+.nav_link {
+  padding: 20px 0;
+  font-size: 24px;
+  color: black;
+  font-weight: 600;
+  text-decoration: none;
+}
+
+.active {
+  color: rgb(89, 96, 233);
+}
